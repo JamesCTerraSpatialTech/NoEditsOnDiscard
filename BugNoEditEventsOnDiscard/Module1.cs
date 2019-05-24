@@ -35,6 +35,10 @@ namespace BugNoEditEventsOnDiscard
         }
 
         #region Overrides
+
+
+
+
         /// <summary>
         /// Called by Framework when ArcGIS Pro is closing
         /// </summary>
